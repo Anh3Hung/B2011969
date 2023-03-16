@@ -26,7 +26,7 @@ Dự án của chúng tôi là một trang web về nội thất, được thi�
 Trang web của chúng tôi được phát triển bằng các công nghệ sau:
 
 * HTML
-* CSS3
+* CSS
 * JavaScript
 * PHP
 
